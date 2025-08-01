@@ -1,4 +1,4 @@
-package strategy;
+package strategy.model;
 
 public class Main {
 
